@@ -1,7 +1,8 @@
 # Hi!!! My name is Dymitry Alves.
 I'm a beginner programer, my dream is the a developer sênior!!
 
-I'm studdant in the class of network maintenance
+I'm studdant in the class of network maintenance, finishing my 3º year of school.
+My hobby is Muay-thai, Football and Gym
  
 
 ## Hard Skill
